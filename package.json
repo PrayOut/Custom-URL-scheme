@@ -1,0 +1,33 @@
+{
+  "name": "appursite-plugin-launchmyapp",
+  "version": "3.2.7",
+  "description": "Custom URL Scheme",
+  "cordova": {
+    "id": "appursite-plugin-launchmyapp",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PrayOut/Custom-URL-scheme.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": {
+    "cordovaDependencies": {
+      "3.2.7": {
+        "cordova": ">3.3.0"
+      }
+    }
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/PrayOut/Custom-URL-scheme/issues"
+  }
+}
